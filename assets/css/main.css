@@ -57,7 +57,7 @@ body{
 .bggif{
   width: 100%;
   height: 100vh;
-  background: url("../media/Lively.gif") no-repeat;
+  background: url("../media/image1.jpeg") no-repeat;
   background-size: 100% 100%;
   z-index: 2;
 }
